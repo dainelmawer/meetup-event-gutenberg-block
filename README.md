@@ -1,3 +1,5 @@
+# Please note that this is not yet ready for production! I plan on merging the stable branch in a few days!
+
 # Meetup Event Embed Block for Gutenberg
 A block for Gutenberg that adds a dynamic Meetup Events Embed to posts
 
